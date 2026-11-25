@@ -8,7 +8,7 @@ Member General responsibilities
 Keith Macario Enemy AI, Movement Systems
 Lip Nguyen Level Design, Environment, Lighting
 Austin Friesen Menus, UI/UX, Scene Transitions
-Tanju Thummala Project Lead, General Programming, Audio
+Tanuj Thummala Project Lead, General Programming, Audio
 Tri Pham Quality Assurance
 About the game
 Omission is a third-person survival horror game set around a remote research facility. The
